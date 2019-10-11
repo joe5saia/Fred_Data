@@ -1,4 +1,4 @@
-# irates
+# Fred_Data
 
 Downloads FRED data and saves it as a CSV
 
